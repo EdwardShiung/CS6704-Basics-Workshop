@@ -1,3 +1,2 @@
 /Users/tianyu/Desktop/CS6704/HW_01
-README.md
 path.txt

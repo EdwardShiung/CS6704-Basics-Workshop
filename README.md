@@ -1,2 +1,3 @@
 # CS6704 SE Basics Workshop
-Hello!
+Tian Yu (Edward) Shiung
+Hello Github!
