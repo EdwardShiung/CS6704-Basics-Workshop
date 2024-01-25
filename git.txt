@@ -1,0 +1,17 @@
+Q1: What is the name of the author of the last commit on this version of git?
+ANS: Junio C Hamano
+
+Q2: How many objects share a partial match with the hash '8348'?
+ANS: 12
+
+Q3: How many blobs, trees, and commits are there?
+ANS: 3 blobs, 4 trees, 5 commits
+
+Q4:In your own words, describe what this commit is doing?
+ANS: It means to check the tree of 834845, which include commit.
+
+Q5: What is the name of the first file listed that changed between versions 2.31.0 and 2.31.1?
+ANS: Add a new txt file --> 2.31.1.txt
+
+Q6: How many total branches are there for the git repository?
+ANS: 8 (one local called master; seven remote branches)

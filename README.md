@@ -1,1 +1,2 @@
-# CS6704_HW01
+# CS6704 SE Basics Workshop
+Hello!
